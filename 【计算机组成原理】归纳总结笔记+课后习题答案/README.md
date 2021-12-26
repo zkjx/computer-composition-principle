@@ -20,15 +20,9 @@
 
 ---
 
-> 作者：何翔 				 
->
-> 学院：计算机学院
->
-> 学号：04191315		 
->
-> 班级：软件1903
->
-> 完整资料：https://github.com/He-Xiang-best/Computer-Composition-Principle
+
+
+
 
 ![请添加图片描述](https://img-blog.csdnimg.cn/c7db02e1af064eeeb3851ca7c744f0c3.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5L2V5a2m6ZW_,size_20,color_FFFFFF,t_70,g_se,x_16)
 ![请添加图片描述](https://img-blog.csdnimg.cn/9a06bbc966a844a9a160e07fe34e9463.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5L2V5a2m6ZW_,size_20,color_FFFFFF,t_70,g_se,x_16)
