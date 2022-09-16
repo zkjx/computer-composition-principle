@@ -8,10 +8,6 @@
 >
 > 班级：软件1903
 >
-> 完整资料：https://github.com/He-Xiang-best/Computer-Composition-Principle
->
-> 转载或引用请标注本文链接： https://blog.csdn.net/HXBest/article/details/122146975
->
 > 欢迎一起交流学习呀！
 
 | 微信                                                         | B站号                                                        | 公众号                                                       |
