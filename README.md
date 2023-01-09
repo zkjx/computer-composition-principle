@@ -16,7 +16,7 @@
 
 ## 参考教程
 
-|                        推荐学习教程①                         |                        推荐学习教程②                         |                         配套课本资料                         |
+|                        推荐学习教程①                         |                        推荐学习教程②                         |                         课本教材                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img width="45%" hight="40%" src="https://i1.hdslb.com/bfs/archive/5a290831e634e8486a289877eeb2144f4ad75d02.jpg@672w_378h_1c_!web-search-common-cover"> | <img width="65%" hight="70%" src="https://i2.hdslb.com/bfs/archive/ddaccdbe0339423ff2c0eec674242fd1663c48aa.jpg@672w_378h_1c_!web-search-common-cover"> | <img src="https://img-blog.csdnimg.cn/20210828200924831.jpeg?x-oss-process=image/resize,m_fixed,h_224,w_224"> |
 |         https://www.bilibili.com/video/BV1L5411A739/         | 王道bilibili官方有免费的，但不是最新版的，如果需要最新版的可以私聊UP主 |                   计算机组成原理（唐朔飞）                   |
