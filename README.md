@@ -18,7 +18,7 @@
 
 |                        推荐学习教程①                         |                        推荐学习教程②                         |                         配套课本资料                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img width="55%" hight="55%" src="https://i1.hdslb.com/bfs/archive/5a290831e634e8486a289877eeb2144f4ad75d02.jpg@672w_378h_1c_!web-search-common-cover"> | <img width="55%" hight="55%" src="https://i2.hdslb.com/bfs/archive/ddaccdbe0339423ff2c0eec674242fd1663c48aa.jpg@672w_378h_1c_!web-search-common-cover"> | <img src="https://img-blog.csdnimg.cn/20210828200924831.jpeg?x-oss-process=image/resize,m_fixed,h_224,w_224"> |
+| <img width="45%" hight="50%" src="https://i1.hdslb.com/bfs/archive/5a290831e634e8486a289877eeb2144f4ad75d02.jpg@672w_378h_1c_!web-search-common-cover"> | <img width="65%" hight="70%" src="https://i2.hdslb.com/bfs/archive/ddaccdbe0339423ff2c0eec674242fd1663c48aa.jpg@672w_378h_1c_!web-search-common-cover"> | <img src="https://img-blog.csdnimg.cn/20210828200924831.jpeg?x-oss-process=image/resize,m_fixed,h_224,w_224"> |
 |         https://www.bilibili.com/video/BV1L5411A739/         | 王道bilibili官方有免费的，但不是最新版的，如果需要最新版的可以私聊UP主 |                   计算机组成原理（唐朔飞）                   |
 
 关于哈工大计算机组成原理视频建议：看个人时间安排，我个人一般不太推荐，因为知识学到最后是掌握重点考点，学会解题，应对面试、考研，而且大学课程多，我们要花合理的时间去收获更多的价值。
